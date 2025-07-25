@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy policy for TagMemo app
+Privacy policy for RetainBit app
